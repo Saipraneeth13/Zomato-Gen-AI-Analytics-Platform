@@ -1,4 +1,4 @@
-# Zomato AI Data Engineering — End-to-End Project
+# Zomato-Gen-AI-Analytics-Platform 
 
 > 🎥 **Video walkthrough:** [Watch the full project tutorial on YouTube](https://youtu.be/kYwaNMQ3XT8?si=Ge8ilVxkmGQS6iIg)
 
