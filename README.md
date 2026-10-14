@@ -14,7 +14,7 @@ The dataset lands in an S3 data lake and flows into Snowflake through a storage 
   <img src="architecture.png" alt="Architecture diagram" width="100%">
 </p>
 
-> 📂 **Dataset + project slides:** [Google Drive folder](https://drive.google.com/drive/folders/1FEnGWMHhHzzTUCZOw1-YnH2v3DMuM-rs?usp=sharing) — download the CSVs here and place them under `data/` (they're too large to commit to the repo).
+> 📂 **Dataset + project slides:** [Google Drive folder]([https://drive.google.com/drive/folders/1FEnGWMHhHzzTUCZOw1-YnH2v3DMuM-rs?usp=sharing](https://docs.google.com/presentation/d/1lBGgbGjEZJK_I3BcnnQt5S6uueDUqVMI/edit?usp=sharing&ouid=116902849644633590390&rtpof=true&sd=true)) — download the CSVs here and place them under `data/` (they're too large to commit to the repo).
 
 ## What gets built
 
