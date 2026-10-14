@@ -1,6 +1,7 @@
 # Zomato-Gen-AI-Analytics-Platform 
 
-> 🎥 **Video walkthrough:** [Watch the full project tutorial on YouTube](https://youtu.be/kYwaNMQ3XT8?si=Ge8ilVxkmGQS6iIg)
+> > 📂 **Dataset + project slides:** [Google Drive folder]([https://drive.google.com/drive/folders/1FEnGWMHhHzzTUCZOw1-YnH2v3DMuM-rs?usp=sharing](https://docs.google.com/presentation/d/1lBGgbGjEZJK_I3BcnnQt5S6uueDUqVMI/edit?usp=sharing&ouid=116902849644633590390&rtpof=true&sd=true)) — download the CSVs here and place them under `data/` (they're too large to commit to the repo).
+
 
 A complete batch data pipeline that takes Zomato-style food delivery data from raw CSVs all the way to AI-powered analytics:
 
@@ -13,8 +14,6 @@ The dataset lands in an S3 data lake and flows into Snowflake through a storage 
 <p align="center">
   <img src="architecture.png" alt="Architecture diagram" width="100%">
 </p>
-
-> 📂 **Dataset + project slides:** [Google Drive folder]([https://drive.google.com/drive/folders/1FEnGWMHhHzzTUCZOw1-YnH2v3DMuM-rs?usp=sharing](https://docs.google.com/presentation/d/1lBGgbGjEZJK_I3BcnnQt5S6uueDUqVMI/edit?usp=sharing&ouid=116902849644633590390&rtpof=true&sd=true)) — download the CSVs here and place them under `data/` (they're too large to commit to the repo).
 
 ## What gets built
 
