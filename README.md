@@ -1,5 +1,5 @@
 # Zomato-Gen-AI-Analytics-Platform 
-> 📊 **Project slides:** [Google Slides]([https://docs.google.com/presentation/d/1lBGgbGjEZJK_I3BcnnQt5S6uueDUqVMI/edit?usp=sharing](https://drive.google.com/drive/folders/1FEnGWMHhHzzTUCZOw1-YnH2v3DMuM-rs?usp=sharing))
+📊 **Project slides:** [Google Slides](https://docs.google.com/presentation/d/1lBGgbGjEZJK_I3BcnnQt5S6uueDUqVMI/edit?usp=sharing)
 
 A complete batch data pipeline that takes Zomato-style food delivery data from raw CSVs all the way to AI-powered analytics:
 
