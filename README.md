@@ -1,5 +1,6 @@
 # Zomato-Gen-AI-Analytics-Platform 
-📊 **Project slides:** [Google Slides](https://docs.google.com/presentation/d/1lBGgbGjEZJK_I3BcnnQt5S6uueDUqVMI/edit?usp=sharing)
+
+📂 **Dataset & project slides:** [Google Drive](https://drive.google.com/drive/folders/1FEnGWMHhHzzTUCZOw1-YnH2v3DMuM-rs?usp=sharing)
 
 A complete batch data pipeline that takes Zomato-style food delivery data from raw CSVs all the way to AI-powered analytics:
 
@@ -55,9 +56,6 @@ Python · Pandas · Amazon S3 · Snowflake · dbt (dbt-snowflake) · Apache Airf
 ├── aws/iam/                  # IAM policy + role trust policies for the S3 ↔ Snowflake handshake
 └── architecture.png          # architecture diagram
 ```
-
-> `data/` (~2.3 GB of CSVs), logs, and dbt `target/` artifacts are intentionally not committed — get the dataset and slides from the [Google Drive folder](https://drive.google.com/drive/folders/1FEnGWMHhHzzTUCZOw1-YnH2v3DMuM-rs?usp=sharing).
-
 ## How the pipeline works
 
 ### 1 · Data lands in S3
