@@ -10,7 +10,9 @@ The dataset lands in an S3 data lake and flows into Snowflake through a storage 
 
 ## Architecture
 
-![Architecture](docs/architecture.png)
+<p align="center">
+  <img src="architecture.png" alt="Architecture diagram" width="100%">
+</p>
 
 > 📂 **Dataset + project slides:** [Google Drive folder](https://drive.google.com/drive/folders/1FEnGWMHhHzzTUCZOw1-YnH2v3DMuM-rs?usp=sharing) — download the CSVs here and place them under `data/` (they're too large to commit to the repo).
 
@@ -54,7 +56,7 @@ Python · Pandas · Amazon S3 · Snowflake · dbt (dbt-snowflake) · Apache Airf
 │   ├── 04_raw_tables.sql     #   RAW (Bronze) table DDL, column order matches the CSVs
 │   └── 05_copy_into.sql      #   COPY INTO RAW from the stage
 ├── aws/iam/                  # IAM policy + role trust policies for the S3 ↔ Snowflake handshake
-└── docs/architecture.png     # architecture diagram
+└── architecture.png          # architecture diagram
 ```
 
 > `data/` (~2.3 GB of CSVs), logs, and dbt `target/` artifacts are intentionally not committed — get the dataset and slides from the [Google Drive folder](https://drive.google.com/drive/folders/1FEnGWMHhHzzTUCZOw1-YnH2v3DMuM-rs?usp=sharing).
