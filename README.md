@@ -1,7 +1,8 @@
 # Zomato-Gen-AI-Analytics-Platform 
 
-> > 📂 **Dataset + project slides:** [Google Drive folder]([https://drive.google.com/drive/folders/1FEnGWMHhHzzTUCZOw1-YnH2v3DMuM-rs?usp=sharing](https://docs.google.com/presentation/d/1lBGgbGjEZJK_I3BcnnQt5S6uueDUqVMI/edit?usp=sharing&ouid=116902849644633590390&rtpof=true&sd=true)) — download the CSVs here and place them under `data/` (they're too large to commit to the repo).
-
+> 📂 **Dataset:** [Google Drive folder](https://drive.google.com/drive/folders/1FEnGWMHhHzzTUCZOw1-YnH2v3DMuM-rs?usp=sharing) — download the CSVs here and place them under `data/` (they're too large to commit to the repo).
+>
+> 📊 **Project slides:** [Google Slides](https://docs.google.com/presentation/d/1lBGgbGjEZJK_I3BcnnQt5S6uueDUqVMI/edit?usp=sharing)
 
 A complete batch data pipeline that takes Zomato-style food delivery data from raw CSVs all the way to AI-powered analytics:
 
